@@ -22,6 +22,11 @@ mixpanel.init("37d2da19967d2ace779625f9cbd057d3");</script><!-- end Mixpanel -->
     
     mixpanel.track_links("#MyLink","Clicked Link");
     
+    if(window.location.href.indexOf("emailclick") > -1){
+     mixpanel.track("Email link clicked", {
+          "MyLink": window.location.href.split("emailclick=")[1]
+     });
+}
     
   </head>
   <body>
