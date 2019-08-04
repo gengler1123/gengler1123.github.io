@@ -7,6 +7,10 @@ Hello.  I am the Senior AI Engineer at Capco Digital Labs -- NYC.  I have my Ph.
 
 Before I was at Capco I ran R&D for Elemental Path, a smart toy / conversational AI startup, building speech-to-text systems, speaker recognition systems, and a curated knowledge engine for fast / safe lookups for serving information for users of the system.
 
+While I was at Stevens I worked research in the field of Cognitive Computational Neuroscience, the intersection between Artificial Intelligence, Computational Neuroscience, and Cognitive Science.  II also worked in Financial Engineering, in particular equities pricing and the mortgage market.
+
+I currently also teach at Stevens, the course I am teaching in the Fall 2019 is FE-695: Machine Learning for Finance. 
+
 ## Programming Languages
 - Python - Approximately 7 years.
 - C++ - Approximatly 4 years.
