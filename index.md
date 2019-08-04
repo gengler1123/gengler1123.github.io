@@ -12,6 +12,7 @@ While I was at Stevens I worked research in the field of Cognitive Computational
 I currently also teach at Stevens, the course I am teaching in the Fall 2019 is FE-695: Machine Learning for Finance. 
 
 ## Programming Languages
-- Python - Approximately 7 years.
+- Python (Primary Lang.) - Approximately 7 years.
 - C++ - Approximatly 4 years.
-- Javascript - Approximately 3 years.
+- Javascript - Approximately 2 years.
+- Haven't Decided Yet - Oscillating between Go and Rust.
