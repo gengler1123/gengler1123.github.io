@@ -7,3 +7,5 @@ Hello.  I am the Senior AI Engineer at Capco Digital Labs -- NYC.  I have my Ph.
 
 ## Programming Languages
 - Python - Approximately 7 years.
+- C++ - Approximatly 4 years.
+- Javascript - Approximately 3 years.
