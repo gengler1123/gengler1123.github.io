@@ -3,16 +3,18 @@
 
 ## Introduction
 
-Hello.  I am the Senior AI Engineer at Capco Digital Labs -- NYC.  I have my Ph.D. in Applied Mathematics from Stevens Institute of Technology in Hoboken, NJ.  I primarily use TensorFlow as a ML framework for neural networks while using `scikit-learn` for other algorithms.
+Hello, My name is Gary R. Engler.  I have my Ph.D. in Applied Mathematics from Stevens Institute of Technology in Hoboken, NJ.  I am a Machine Learning Engineer at Facebook in the New York office, having started in Janurary 2020.  Before Facebook I was:
+- Adjunct Professor at Stevens Institute of Technology
+- Senior AI Engineer / Founding Member of Capco Digital Labs -- NYC
+- Machine Learning Engineer / Head of R&D at Elemental Path, a conversational AI startup focused on creating smart toys for children.
+- Founder of Aether HCC a startup that investigated Cloud Control of Robotics.
 
-Before I was at Capco I ran R&D for Elemental Path, a smart toy / conversational AI startup, building speech-to-text systems, speaker recognition systems, and a curated knowledge engine for fast / safe lookups for serving information for users of the system.
 
-While I was at Stevens I worked research in the field of Cognitive Computational Neuroscience, the intersection between Artificial Intelligence, Computational Neuroscience, and Cognitive Science.  II also worked in Financial Engineering, in particular equities pricing and the mortgage market.
+While I was at Stevens I worked research in the field of Cognitive Computational Neuroscience, the intersection between Artificial Intelligence, Computational Neuroscience, and Cognitive Science.  I also worked in Financial Engineering, in particular equities pricing and the mortgage market.
 
-I currently also teach at Stevens, the course I am teaching in the Fall 2019 is FE-695: Machine Learning for Finance. 
 
 ## Programming Languages
 - Python (Primary Lang.) - Approximately 7 years.
 - C++ - Approximatly 4 years.
 - Javascript - Approximately 2 years.
-- Haven't Decided Yet - Oscillating between Go and Rust.
+- Next, Haven't Decided Yet - Oscillating between Go and Rust.
